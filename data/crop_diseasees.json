@@ -1,0 +1,35 @@
+{
+  "paddy": {
+    "brown_spot": {
+      "name": "Brown Spot",
+      "scientific_name": "Bipolaris oryzae",
+      "symptoms": "Small brown spots on leaves",
+      "treatment": "Spray mancozeb or neem oil",
+      "cost": "₹300-500 per acre",
+      "timing": "Within 2-3 days"
+    },
+    "blast": {
+      "name": "Blast",
+      "scientific_name": "Pyricularia oryzae",
+      "symptoms": "Diamond-shaped lesions",
+      "treatment": "Apply tricyclazole fungicide",
+      "cost": "₹350-550 per acre",
+      "timing": "Within 48 hours"
+    },
+    "bph": {
+      "name": "Brown Plant Hopper",
+      "scientific_name": "Nilaparvata lugens",
+      "symptoms": "Yellowing and wilting",
+      "treatment": "Flood field, then apply imidacloprid",
+      "cost": "₹400-600 per acre",
+      "timing": "Immediate"
+    }
+  },
+  "wheat": {
+    "rust": {
+      "name": "Wheat Rust",
+      "treatment": "Propiconazole spray",
+      "cost": "₹400-600 per acre"
+    }
+  }
+}
